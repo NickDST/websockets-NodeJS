@@ -1,5 +1,8 @@
 # websockets-NodeJS
-Practice using websockets and nodeJS. 
+The purpose of this project is to better understand how to use websockets in javascript on a Node Server by creating a chatroom with instantaneous messaging and feedback. 
+
+<br>
+<br>
 
 
 
